@@ -1,4 +1,4 @@
-Sistema de Cursos Online 📝 
+*Sistema de Cursos Online* 📝 
 
 1. Preparación del Entorno
 Primero, asegúrate de tener instaladas las herramientas base mencionadas en el inventario técnico:
